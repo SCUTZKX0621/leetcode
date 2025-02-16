@@ -16,9 +16,8 @@ class Solution:
             return False
         return True
 
-    class Solution:
-        def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-            from collections import Counter
-            if len(ransomNote) > len(magazine):
-                return False
-            return not Counter(ransomNote) - Counter(magazine)
+    def canConstruct(self, ransomNote: str, magazine: str) -> bool:
+        from collections import Counter
+        if len(ransomNote) > len(magazine):
+            return False
+        return not Counter(ransomNote) - Counter(magazine)
