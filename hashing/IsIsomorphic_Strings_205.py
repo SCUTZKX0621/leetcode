@@ -20,13 +20,11 @@ class Solution:
                     return False
             else:
                 s_to_t[char_s] = char_t
-
             # 检查 t 到 s 的映射
             if char_t in t_to_s:
                 if t_to_s[char_t] != char_s:
                     return False
             else:
                 t_to_s[char_t] = char_s
-
         return True
 
