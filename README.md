@@ -1,0 +1,3 @@
+# Leetcode exercise
+## hashing
+## LinkedList
