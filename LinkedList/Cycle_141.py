@@ -27,11 +27,11 @@ class Solution:
         return False
 
     def hasCycle2(self, head: Optional[ListNode]) -> bool:
-        if head == None or head.next == None:
+        if not head or not head:
             return False
         slow = head
         fast = head.next
-        while fast != None and fast.next != None:
+        while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
             if slow == fast:
