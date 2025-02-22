@@ -1,3 +1,3 @@
-# Leetcode exercise
+# Leetcode exercise(python)
 ## hashing
 ## LinkedList
