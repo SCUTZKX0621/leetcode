@@ -9,7 +9,7 @@ class Solution:
         return len(set(nums)) < len(nums)
 # python用哈希的做法不如直接这样利用set的去重性质
 
-# 复习一下set之间的计算
+# set之间的计算
 
 # s1 = set([1, 2, 3])
 # s2 = set([4, 2, 3])
