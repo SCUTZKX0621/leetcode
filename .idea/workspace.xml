@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae86a9ef-aac7-4a45-9e4e-21ab15c7846a" name="Changes" comment="add double-pointer method">
+    <list default="true" id="ae86a9ef-aac7-4a45-9e4e-21ab15c7846a" name="Changes" comment="双向映射哈希">
+      <change afterPath="$PROJECT_DIR$/HashingTable/Contains_Duplicate_217.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hashing/IsIsomorphic_Strings_205.py" beforeDir="false" afterPath="$PROJECT_DIR$/hashing/IsIsomorphic_Strings_205.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hashing/Happy_Number_202.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hashing/Intersection_350.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hashing/Intersection_of_Two_Arrays_349.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hashing/IsIsomorphic_Strings_205.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hashing/Longest_Consecutive_Sequence_128.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hashing/Ransom_Note_383.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hashing/Valid_Anagram_242.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hashing/__init__.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +82,18 @@
       <workItem from="1739015996664" duration="1398000" />
       <workItem from="1739024400968" duration="1479000" />
       <workItem from="1739073449187" duration="4746000" />
+      <workItem from="1739800753758" duration="609000" />
+      <workItem from="1740233803828" duration="4490000" />
+      <workItem from="1740333131290" duration="248000" />
     </task>
+    <task id="LOCAL-00001" summary="双向映射哈希">
+      <created>1739727464944</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739727464944</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +109,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="双向映射哈希" />
+    <option name="LAST_COMMIT_MESSAGE" value="双向映射哈希" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leetcode$Happy_Number_202.coverage" NAME="Happy_Number_202 Coverage Results" MODIFIED="1739635839095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hashing" />
