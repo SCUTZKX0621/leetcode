@@ -1,3 +1,5 @@
 # Leetcode exercise(python)
-## hashing
+## DoublePointer
+## DynamicProgramming
+## HashingTable
 ## LinkedList
