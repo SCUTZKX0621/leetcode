@@ -16,7 +16,7 @@ class Solution:
                 r = p + q
             return r
 # 时间复杂度O(n)
-# 空间复杂度O(n)
+# 空间复杂度O(1)
 
     def fib2(self, n: int) -> int:
         if n == 0:
@@ -31,7 +31,7 @@ class Solution:
         return a[n]
 
 # 时间复杂度O(n)
-# 空间复杂度O(1)
+# 空间复杂度O(n)
 
 # 动态规划考虑以下问题：
 #  1. dp数组以及下标的含义
