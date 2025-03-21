@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae86a9ef-aac7-4a45-9e4e-21ab15c7846a" name="Changes" comment="和斐波那契问题区别在于数组的初始化">
-      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Min_Cost_Climbing_Stairs_746.py" afterDir="false" />
+    <list default="true" id="ae86a9ef-aac7-4a45-9e4e-21ab15c7846a" name="Changes" comment="爬楼梯的最小开销问题">
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Unique_Paths_62.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Unique_Paths_II_63.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +81,8 @@
       <workItem from="1740415704153" duration="39000" />
       <workItem from="1741444540350" duration="1337000" />
       <workItem from="1741682246963" duration="9000" />
-      <workItem from="1742464967590" duration="1828000" />
+      <workItem from="1742464967590" duration="1898000" />
+      <workItem from="1742534384755" duration="2661000" />
     </task>
     <task id="LOCAL-00001" summary="双向映射哈希">
       <created>1739727464944</created>
@@ -117,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1742465598154</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="爬楼梯的最小开销问题">
+      <created>1742466834938</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1742466834938</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,7 +148,8 @@
     <MESSAGE value="利用set的去重性质" />
     <MESSAGE value="更正了两种方法的时间复杂度" />
     <MESSAGE value="和斐波那契问题区别在于数组的初始化" />
-    <option name="LAST_COMMIT_MESSAGE" value="和斐波那契问题区别在于数组的初始化" />
+    <MESSAGE value="爬楼梯的最小开销问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="爬楼梯的最小开销问题" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leetcode$Happy_Number_202.coverage" NAME="Happy_Number_202 Coverage Results" MODIFIED="1739635839095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hashing" />
